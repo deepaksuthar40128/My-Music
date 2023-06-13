@@ -97,6 +97,7 @@ a {
 }
 
 .song {
+    min-height:40px;
     padding: 10px;
     height: max-content;
     font-size: 13px;
