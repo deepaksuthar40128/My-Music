@@ -53,4 +53,4 @@ There is a basic music player web app which is compitable in both mobile as well
  ## Improvements
 
  - User Interface can be improved
- ### If you found any way or idea to improve my project or any query,You can contact me [Deepak Suthar](deepaksuthar40128@gmail.com)
+ ### If you found any way or idea to improve my project or any query,You can contact me [Deepak Suthar](https://deepaksuthar.vercel.app)
